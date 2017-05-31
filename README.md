@@ -22,9 +22,9 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Ubuntu & Debian based distributions can now install the newly created Debian packages for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
 
-> [osx-arc-collection_1.4.1_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+> [osx-arc-collection_1.4.3_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
-> [osx-arc-collection_1.4.1_i386.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+> [osx-arc-collection_1.4.3_i386.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
 
 ##
 
@@ -61,9 +61,9 @@ packer -S osx-arc-shadow
 |  * `Antergos` |* `GTK 3.14 - Support end date (2018)`|* `14.04 LTS`
 |  * `Arch`|* `GTK 3.16 - Support end date (2018)`|* `16.04 LTS`
 |  * `Budgie`|* `GTK 3.18` |* `16.10`
-|  * `Cinnamon (Updated version)`|* `GTK 3.20`|* `17.04 - In progress`
+|  * `Cinnamon (Updated version)`|* `GTK 3.20`|* `17.04`
 |  * `Elementary OS`|* `GTK 3.22`
-|  * `Fedora (Gnome)` |* `GTK 3.24 - In progress`
+|  * `Fedora (Gnome)` |* `GTK 3.24`
 |  * `Gnome`|
 |  * `Manjaro`|
 |  * `Mate (3.14 or later)`|
@@ -121,13 +121,6 @@ Run (As Local User)
 
 ### Work in progress!
 
-| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)| In Progress Tasks |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)|
-| :------------- |--- |:------------- |---|
-| Add OSX-Arc-Plus beta theme |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Correct css colour |9%
-| Added GPL v3 Licences |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)  |Add new theme elements to gnome-shell |55%
-|Create deb packages|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |Add support for Gnome 3.24|93%
-|| |OS support for 17.04|73%
-|| |Fix calander css styling|5%
 
 ## 
 
