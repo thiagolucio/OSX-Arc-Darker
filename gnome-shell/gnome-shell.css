@@ -977,7 +977,7 @@ StScrollBar {
   border-width: 0; }
 
 .calendar-day-with-events {
-  font-weight: bold;
+  background-image: none; color: #03A9F4; font-weight: bold; text-decoration: underline;
   background-image: url("common-assets/misc/calendar-today.svg"); }
 
 .calendar-today.calendar-day-with-events {
