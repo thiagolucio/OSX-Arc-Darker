@@ -4,7 +4,7 @@
 
 ### Introduction
 
-OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
+OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, ~~Budgie~~, Pantheon, XFCE, Mate, etc.
 
 
 ##
@@ -71,7 +71,7 @@ packer -S osx-arc-shadow
 | ------------- | ------------- | ------------- |
 |  * `Antergos` |* `GTK 3.14 - Support end date (2018)`|* `14.04 LTS`
 |  * `Arch`|* `GTK 3.16 - Support end date (2018)`|* `16.04 LTS`
-|  * `Budgie`|* `GTK 3.18` |* `16.10`
+|  * ~~Budgie~~|* `GTK 3.18` |* `16.10`
 |  * `Cinnamon (Updated version)`|* `GTK 3.20`|* `17.04`
 |  * `Elementary OS`|* `GTK 3.22`
 |  * `Fedora (Gnome)` |* `GTK 3.24`
