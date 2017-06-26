@@ -6,6 +6,15 @@
 
 OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
+
+##
+
+### Announcements
+
+Just a quick update I’m currently going to end development of OSX Arc collection but the code is still available for further development I have time constraints which makes it hard for me to continue to offer full support to the project and thank you to everyone one who offered their support.
+
+kind regards - **LinxGem33**
+
 ##
 
 |OSX Arc White|OSX Arc Plus|OSX Arc Darker|OSX Arc Shadow|
