@@ -1,4 +1,4 @@
-<img src="https://github.com/LinxGem33/Neon/blob/master/artwork/ark-svg.png?raw=true" alt="Logo" align="left" /> 
+<img src="https://github.com/thiagolucio/Neon/blob/master/artwork/ark-svg.png?raw=true" alt="Logo" align="left" /> 
 
 # OSX-Arc Collection
 
@@ -13,19 +13,19 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 Just a quick update I’m currently going to end development of OSX Arc collection but the code is still available for further development I have time constraints which makes it hard for me to continue to offer full support to the project and thank you to everyone one who offered their support.
 
-kind regards - **LinxGem33**
+kind regards - **thiagolucio**
 
 ##
 
 |OSX Arc White|OSX Arc Plus|OSX Arc Darker|OSX Arc Shadow|
 |:------:|:-----:|:-----:|:-----:|
-|![](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)|![](https://github.com/LinxGem33/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)|![](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)|![](https://cn.pling.com/img/4/e/e/e/7aa33dbf66b684e7ca882318e6b400acd1b5.png)|
+|![](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)|![](https://github.com/thiagolucio/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)|![](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)|![](https://cn.pling.com/img/4/e/e/e/7aa33dbf66b684e7ca882318e6b400acd1b5.png)|
 |Click image to enlarge|Click image to enlarge|Click image to enlarge|Click image to enlarge|
 
 ## 
 ### Installation
 
-Latest stable & beta releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+Latest stable & beta releases can be downloaded from [Here](https://github.com/thiagolucio/OSX-Arc-Darker/releases)
 
 ##
 
@@ -33,9 +33,9 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Ubuntu & Debian based distributions can now install the newly created Debian packages for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
 
-> [osx-arc-collection_1.4.3_amd64.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+> [osx-arc-collection_1.4.3_amd64.deb](https://github.com/thiagolucio/OSX-Arc-Darker/releases)
 
-> [osx-arc-collection_1.4.3_i386.deb](https://github.com/LinxGem33/OSX-Arc-Darker/releases)
+> [osx-arc-collection_1.4.3_i386.deb](https://github.com/thiagolucio/OSX-Arc-Darker/releases)
 
 ##
 
@@ -171,13 +171,13 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 ### Bugs
 
-Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-Darker/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/thiagolucio/OSX-Arc-Darker/issues) on the Github issues page.
 
 ## 
 
-### License & Terms ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
+### License & Terms ![](https://github.com/thiagolucio/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
 
-OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-Darker/blob/master/COPYING) for details.
+OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/thiagolucio/OSX-Arc-Darker/blob/master/COPYING) for details.
 
 ## 
 
@@ -188,4 +188,4 @@ Any suggestions for features and contributions to the continuing code developmen
 ## 
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
-<sub>Screenshot Details: Icons: [Arc-OSX Icons](https://github.com/LinxGem33/Arc-OSX-Icons) | System Icons based on [Paper Project Icons](https://github.com/snwh/paper-icon-theme) | [Wallpaper](https://github.com/LinxGem33/OSX-Arc-White/blob/master/extra/mountains.png?raw=true) | Font: Liberation Sans</sub>
+<sub>Screenshot Details: Icons: [Arc-OSX Icons](https://github.com/thiagolucio/Arc-OSX-Icons) | System Icons based on [Paper Project Icons](https://github.com/snwh/paper-icon-theme) | [Wallpaper](https://github.com/thiagolucio/OSX-Arc-White/blob/master/extra/mountains.png?raw=true) | Font: Liberation Sans</sub>
